@@ -1,8 +1,8 @@
 # In order to try this lab exercise, please follow the below commands
 
 The assumptions are
-	* terraform and docker is already installed in your system.
-	* You have navigated to Day1/lab2 folder before executing the below commands in the terminal.
+* terraform and docker is already installed in your system.
+* You have navigated to Day1/lab2 folder before executing the below commands in the terminal.
 
 This will download the necessary provider plugins and initialize stuffs before executing the tf script.
 terraform init
