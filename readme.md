@@ -16,7 +16,7 @@ Here is a quick reference to get you setup docker on your CentOS machine
 You may refer the below official documentation for detailed terraform installtion instructions
 	https://www.terraform.io/downloads.html
 
-To install terraform in CentOS, you may follow the below instructions
+To install terraform in CentOS, you may follow the below instructions<br>
 	wget https://releases.hashicorp.com/terraform/0.12.23/terraform_0.12.23_linux_amd64.zip
 	unzip terraform_0.12.23_linux_amd64.zip 
 	mv terraform /usr/bin
