@@ -1,4 +1,7 @@
-# To try the Day2 lab exercises, you need to install 
+# Day2 exercises assumes
+
+
+To try the Day2 lab exercises, you need to install 
 * Python3
 * aws-cli
 
