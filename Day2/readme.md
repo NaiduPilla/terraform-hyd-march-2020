@@ -6,7 +6,7 @@ To try the Day2 lab exercises, you need to install
 * aws-cli
 
 You may install python as shown below
-
+	amazon-linux-extras install epel -y
 	sudo yum install -y python3
 
 You may install aws cli tool as shown below
